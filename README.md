@@ -1,1 +1,1 @@
-https://github.com/eduardobrow/apache-labs.git
+docker pull eduardoesser/apache-lab
